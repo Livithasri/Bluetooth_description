@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bluetooth_description/static/css/main.34fec347.css",
+    "main.js": "/Bluetooth_description/static/js/main.77fab894.js",
+    "static/js/787.9cb3e5b4.chunk.js": "/Bluetooth_description/static/js/787.9cb3e5b4.chunk.js",
+    "static/media/logo.svg": "/Bluetooth_description/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Bluetooth_description/index.html",
+    "main.34fec347.css.map": "/Bluetooth_description/static/css/main.34fec347.css.map",
+    "main.77fab894.js.map": "/Bluetooth_description/static/js/main.77fab894.js.map",
+    "787.9cb3e5b4.chunk.js.map": "/Bluetooth_description/static/js/787.9cb3e5b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34fec347.css",
+    "static/js/main.77fab894.js"
+  ]
+}
